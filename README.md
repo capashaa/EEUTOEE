@@ -14,3 +14,7 @@ You can find the worlds in the folder named worlds where your executable is.
 
 ![img](https://github.com/capashaa/EEUTOEE/blob/main/img/tool.png)
 
+There is a file named blocks.json. Inside this json file I store the id's of EEU blocks. And the blocks from EE.  
+I have changed a bit in this file, like all blocks that EEU have doesn't exist in EE.  
+If you want to change the blocks you can do that. Here is a list of all [EEU Blocks](https://capashaa.github.io/blocks.html) and their hex colors.
+
