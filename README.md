@@ -1,4 +1,4 @@
-# EEUTOEE
+# Bye
 Welcome to Everybody Edits Universe TO Everybody Edits Offline converter.
 
 To be able to use this tool you need [.NET Core 6.0.16 Runtime 64bit](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-6.0.16-windows-x64-installer)
